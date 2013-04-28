@@ -2,6 +2,27 @@
 
 Code &amp; documentation from the Processing Bordeaux workshop.
 
+## Different types of 3D printing
+
+You can print your 3D models in different qualities, materials, and sizes. We'll take a look at some of the most widely used techniques for 3D printing.
+
+### Selective Laser Sintering
+
+* https://vimeo.com/14737152
+* http://en.wikipedia.org/wiki/Selective_laser_sintering
+
+### Fused Deposition Modeling
+
+* https://vimeo.com/14292165
+* http://en.wikipedia.org/wiki/Fused_deposition_modeling
+* Technique used by Makerbot http://www.makerbot.com/, Ultimaker http://www.ultimaker.com/
+
+### Stereolitography
+
+* https://vimeo.com/13939214
+* http://en.wikipedia.org/wiki/Stereolithography
+* Used by the Formlabs Form 1 printer — http://formlabs.com/
+
 ## Introduction to HE_Mesh
 
 HE_Mesh is a Processing library for mesh creation and manipulation created by Frederik Vanhoutte. You can download the library right over here: http://hemesh.wblut.com/
@@ -43,20 +64,7 @@ In the reference folder, you'll find the full Java documentation of the library.
 
 ## Introduction to Toxiclibs
 
-
-## Different types of 3D printing
-
-### Selective Laser Sintering
-(Powder, http://en.wikipedia.org/wiki/Selective_laser_sintering)
-
-### Fused Deposition Modelling
-
-<iframe src="http://player.vimeo.com/video/14292165" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/14292165">Fused Deposition Modeling</a> from <a href="http://vimeo.com/imaterialise">i.materialise</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
-
-(Extruder, http://en.wikipedia.org/wiki/Fused_deposition_modeling, Makerbot, Ultimaker)
-
-### Stereolitography
-(Liquid Resin, http://en.wikipedia.org/wiki/Stereolithography)
+TODO: Corneel writes some introduction...
 
 
 ## Tools for Repairing Meshes
