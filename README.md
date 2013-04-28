@@ -49,7 +49,10 @@ In the reference folder, you'll find the full Java documentation of the library.
 ### Selective Laser Sintering
 (Powder, http://en.wikipedia.org/wiki/Selective_laser_sintering)
 
-### Fused Deposition Modeling
+### Fused Deposition Modelling
+
+<iframe src="http://player.vimeo.com/video/14292165" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/14292165">Fused Deposition Modeling</a> from <a href="http://vimeo.com/imaterialise">i.materialise</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
 (Extruder, http://en.wikipedia.org/wiki/Fused_deposition_modeling, Makerbot, Ultimaker)
 
 ### Stereolitography
