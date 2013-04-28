@@ -19,6 +19,10 @@ Creators are the building blocks to create 3D geometry with HE_Mesh. There are a
 
 To display a mesh on the screen, you need to use the WB_Render class. You'll use this class most of the times to display the faces or edges, but it can also be used to display vertices, vertex normals or face normals.
 
+#### Code Examples
+
+* hemesh_render
+
 ### Subdividors
 
 Subdividors are used to split every face in your model into more faces, usually to create a smoother model. The CatmullClark subdivider is probably the one you'll use the most.
