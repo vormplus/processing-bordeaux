@@ -48,6 +48,8 @@ To display a mesh on the screen, you need to use the WB_Render class. You'll use
 
 Subdividors are used to split every face in your model into more faces, usually to create a smoother model. The CatmullClark subdivider is probably the one you'll use the most.
 
+* hemesh_subdividor
+
 ### Modifiers
 
 Modifiers are used to change the geometry of your mesh. These can be used to create a lattice, or to extrude the faces along their normal.
