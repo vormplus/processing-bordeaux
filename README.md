@@ -54,6 +54,8 @@ Subdividors are used to split every face in your model into more faces, usually 
 
 Modifiers are used to change the geometry of your mesh. These can be used to create a lattice, or to extrude the faces along their normal.
 
+* hemesh_modifier
+
 ### Exporting Meshes
 
 To save your mesh for 3D printing, you'll need to use the HET_Export class and save your model as an STL file.
