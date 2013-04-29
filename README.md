@@ -60,6 +60,8 @@ Modifiers are used to change the geometry of your mesh. These can be used to cre
 
 To save your mesh for 3D printing, you'll need to use the HET_Export class and save your model as an STL file.
 
+* hemesh_export
+
 ### Using the HE_Mesh documentation
 
 HE_Mesh is a big library with lots of options. The good thing is that it also comes with examples for most of the creators, modifiers and subdividors. You can find these sketches in the examples folder of the library.
@@ -69,7 +71,6 @@ In the reference folder, you'll find the full Java documentation of the library.
 ## Introduction to Toxiclibs
 
 TODO: Corneel writes some introduction...
-
 
 ## Tools for Repairing Meshes
 
