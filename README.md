@@ -31,6 +31,10 @@ HE_Mesh is a Processing library for mesh creation and manipulation created by Fr
 
 Creators are the building blocks to create 3D geometry with HE_Mesh. There are a lot of basic shapes available, like boxes, spheres, cones, cylinders, … Alternatively, you can also create custom meshes if you calculate the vertices and faces yourself.
 
+#### Tutorial
+
+* http://vormplus.be/blog/article/creating-3d-shapes-with-hemesh
+
 #### Code Examples
 
 * hemesh_cube
@@ -40,6 +44,10 @@ Creators are the building blocks to create 3D geometry with HE_Mesh. There are a
 
 To display a mesh on the screen, you need to use the WB_Render class. You'll use this class most of the times to display the faces or edges, but it can also be used to display vertices, vertex normals or face normals.
 
+#### Tutorial
+
+* http://vormplus.be/blog/article/exploring-the-hemesh-wb-render-class
+
 #### Code Examples
 
 * hemesh_render
@@ -48,17 +56,31 @@ To display a mesh on the screen, you need to use the WB_Render class. You'll use
 
 Subdividors are used to split every face in your model into more faces, usually to create a smoother model. The CatmullClark subdivider is probably the one you'll use the most.
 
+#### Tutorial
+
+* http://vormplus.be/blog/article/subdividing-a-mesh-with-hemesh
+
+#### Code Examples
+
 * hemesh_subdividor
 
 ### Modifiers
 
 Modifiers are used to change the geometry of your mesh. These can be used to create a lattice, or to extrude the faces along their normal.
 
+#### Tutorial
+
+* http://vormplus.be/blog/article/modifying-a-mesh-with-hemesh
+
+#### Code Examples
+
 * hemesh_modifier
 
 ### Exporting Meshes
 
 To save your mesh for 3D printing, you'll need to use the HET_Export class and save your model as an STL file.
+
+#### Code Examples
 
 * hemesh_export
 
@@ -70,7 +92,11 @@ In the reference folder, you'll find the full Java documentation of the library.
 
 ## Introduction to Toxiclibs
 
-TODO: Corneel writes some introduction...
+Toxiclibs is a big library with lots of functionality. There are some tools in the library that can be used to create 3D geometry. Toxiclibs can be downloaded over here: http://toxiclibs.org/
+
+#### Code Examples
+
+* volumetric_brush
 
 ## Tools for Repairing Meshes
 
