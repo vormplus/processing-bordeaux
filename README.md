@@ -96,7 +96,7 @@ Toxiclibs is a big library with lots of functionality. There are some tools in t
 
 #### Code Examples
 
-* volumetric_brush
+* recursiveBranch
 
 ## Tools for Repairing Meshes
 
@@ -108,7 +108,6 @@ http://meshlab.sourceforge.net/
 
 http://www.netfabb.com/
 
-
 ## Software used for 3D printing
 
 ### ReplicatorG
@@ -116,8 +115,5 @@ http://replicat.org/
 
 ### Pleasant3D
 http://www.macupdate.com/app/mac/32803/pleasant3d
-
-## Makerbot Troubleshooting
-
 
 
